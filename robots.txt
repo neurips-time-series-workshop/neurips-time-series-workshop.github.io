@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://neurips-time-series-workshop.github.io/sitemap.xml
+Sitemap: https://neurips-time-series-workshop.github.io//sitemap.xml
