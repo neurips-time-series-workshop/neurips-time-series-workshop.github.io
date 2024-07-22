@@ -7,7 +7,7 @@ subtitle: 1st Workshop on Time Series in the Age of Large Models at the <a href=
 profile:
   align: right
 
-news: true # includes a list of news items
+news: false # includes a list of news items. TODO: set to true when needed
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
