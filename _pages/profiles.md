@@ -24,7 +24,7 @@ profiles:
     content: organizers/arjun.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> University of Montreal, Mila-Quebec AI Institute and ServiceNow Research</p><br>
+      <p> ServiceNow Research, Mila-Quebec AI Institute and University of Montreal</p><br>
       <p>Montreal (CA)</p><br>
       <p><a href="https://scholar.google.com.sg/citations?hl=en&user=4ur98b4AAAAJ&view_op=list_works&authuser=2&sortby=pubdate">google scholar</a> </p>
       <p><a href="mailto: arjun.ashok@servicenow.com">arjun.ashok@servicenow.com</a></p>
