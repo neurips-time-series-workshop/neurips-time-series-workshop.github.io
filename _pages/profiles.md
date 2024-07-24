@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /organizers/
+title: organizers 
+description: 
 nav: true
 nav_order: 7
 
@@ -10,19 +10,12 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content:
+    image: organizers/abdul.png
+    content: organizers/abdul.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content:
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Amazon Web Services</p>
+      <p>Berlin DE</p><br>
+      <p><a href="https://scholar.google.com/citations?hl=en&user=BZ0EoqIAAAAJ&view_op=list_works&sortby=pubdate">google scholar</a> </p>
+      <p><a href="mailto: abdulfatirs@gmail.com">abdulfatirs@gmail.com</a></p>
 ---
