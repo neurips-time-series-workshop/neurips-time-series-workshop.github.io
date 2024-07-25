@@ -30,12 +30,12 @@ profiles:
       <p><a href="mailto: arjun.ashok@servicenow.com">arjun.ashok@servicenow.com</a></p>
       
   - align: right
-    image:
+    image: 
     content: organizers/imry.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Amazon Web Services</p><br>
-      <p>???</p><br>
+      <p>AWS Central Economics </p><br>
+      <p>Seattle (US)</p><br>
       <p><a href=https://scholar.google.co.il/citations?user=jCdl9g8AAAAJ&hl=en>google scholar</a> </p>
       <p><a href="mailto: imryki@gmail.com">imryki@gmail.com</a></p>
       
@@ -60,7 +60,7 @@ profiles:
       <p><a href="mailto: kashif.rasul@gmail.com">kashif.rasul@gmail.com</a></p>
       
   - align: left 
-    image:
+    image: organizers/pedro.jpeg
     content: organizers/pedro.md 
     image_circular: false 
     more_info: >
@@ -70,7 +70,7 @@ profiles:
       <p><a href="mailto:pedroml@amazon.de">pedroml@amazon.de</a></p>
 
   - align: right 
-    image:
+    image: organizers/laurent.png
     content: organizers/laurent.md 
     image_circular: false 
     more_info: >
