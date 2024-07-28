@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: First Workshop on Time Series in the Age of Large Models at the <a href="https://neurips.cc/">Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)</a>, December 2024, Vancouver, Canada.
 
