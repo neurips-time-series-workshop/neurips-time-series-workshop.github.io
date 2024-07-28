@@ -40,7 +40,7 @@ profiles:
       <p><a href="mailto: imryki@gmail.com">imryki@gmail.com</a></p>
       
   - align: left 
-    image: 
+    image: organizers/moshe.jpg
     content: organizers/moshe.md 
     image_circular: false # crops the image to make it circular
     more_info: >
