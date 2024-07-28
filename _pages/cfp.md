@@ -39,4 +39,4 @@ We invite submissions related to pretrained time series models. The key topics i
 
 ## contact
 
-If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to the organizers at **email@gmail.com**.
+If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact the organizers at [neurips-time-series-workshop@googlegroups.com](mailto:neurips-time-series-workshop@googlegroups.com).
