@@ -30,12 +30,13 @@ We invite submissions related to pretrained time series models. The key topics i
 
 - Building _foundation_ models for time series data.
 - Analyzing existing pretrained time series models (e.g., explainability and interpretability).
+- Critiques on foundational models for time series.
 - Faster and better inference schemes for autoregressive pretrained time series models.
 - Leveraging pretrained models of other modalities for time series.
 - Multimodal time series models.
 - Large scale benchmarks, datasets, synthetic data generation and data augmentation for time series.
-- Time Series Evaluation
-- Real-world applications
+- Time Series Evaluation.
+- Real-world applications.
 
 ## Contact
 
