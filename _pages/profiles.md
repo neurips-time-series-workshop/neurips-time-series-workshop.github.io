@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p>Amazon Web Services</p><br>
       <p>Berlin (DE)</p><br>
-      <p><a href="https://scholar.google.com/citations?hl=en&user=BZ0EoqIAAAAJ&view_op=list_works&sortby=pubdate">google scholar</a> </p>
+      <p><a href="https://abdulfatir.com/">website</a>, <a href="https://scholar.google.com/citations?hl=en&user=BZ0EoqIAAAAJ&view_op=list_works&sortby=pubdate">google scholar</a> </p>
       <p><a href="mailto: abdulfatirs@gmail.com">abdulfatirs@gmail.com</a></p>
       
   - align: left 
