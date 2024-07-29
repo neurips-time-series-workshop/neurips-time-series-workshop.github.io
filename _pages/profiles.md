@@ -30,7 +30,7 @@ profiles:
       <p><a href="mailto: arjun.ashok@servicenow.com">arjun.ashok@servicenow.com</a></p>
       
   - align: right
-    image: 
+    image: organizers/imry.jpeg
     content: organizers/imry.md 
     image_circular: false # crops the image to make it circular
     more_info: >
