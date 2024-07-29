@@ -34,7 +34,7 @@ models. It aims to address specific problems in this field, highlighting the fol
 - Developing new metrics for evaluating (probabilistic) predictions.
 - Showcasing applications in domains like retail, transportation, finance, human mobility, climate and weather.
 
-## Key Information
+### Key Information
 
 - Submission link: [TBD](https://openreview.net)
 - Submission deadline: Sep 15, 2024 (11:59 pm AoE)
