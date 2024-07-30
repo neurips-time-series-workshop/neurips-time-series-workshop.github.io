@@ -44,7 +44,8 @@ models. It aims to address specific problems in this field, highlighting the fol
 ### Invited Speakers
 The workshop features a diverse group of invited speakers who will deliver keynote talks and participate in a panel discussion:
 
-1. **[Mihaela van der Schaar](https://www.vanderschaar-lab.com/)** - University of Cambridge, The Alan Turing Institute
-2. **[Qingsong Wen](https://sites.google.com/site/qingsongwen8/)** - Squirrel AI Learning Inc.
-3. **[Valentina Zantedeschi](https://vzantedeschi.com/)** - ServiceNow, Laval University
-4. **[Andrew Wilson](https://cims.nyu.edu/~andrewgw/)** - New York University
+1. **Mihaela van der Schaar** - University of Cambridge, The Alan Turing Institute
+2. **Qingsong Wen** - Squirrel AI Learning Inc.
+3. **Valentina Zantedeschi** - ServiceNow, Laval University
+4. **Andrew Wilson** - New York University
+5. **Christoph Bergmeir** - University of Granada, Spain
