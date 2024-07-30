@@ -11,7 +11,7 @@ news: false # includes a list of news items. TODO: set to true when needed
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-In recent years the success of large language models has sparked exciting research in various domains ranging from
+In recent years the success of large language models (LLMs) has sparked exciting research in various domains ranging from
 audio/image
 processing over reinforcement learning to the development general-purpose virtual assistants such as
 ChatGPT.
@@ -21,7 +21,7 @@ Conference on Neural Information Processing Systems (NeurIPS)</a>** ,  we aim to
 time-series prediction and the
 challenges that come with adopting large models to this domain.
 
-Key topics include but are not limited to:
+Key topics of this workshop include but are not limited to:
 
 - Foundation models for time-series prediction
 - Leveraging/adopting pretrained models of other modalities for more accurate prediction of longitudinal data 
