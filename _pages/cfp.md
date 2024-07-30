@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /call-for-papers/
-title: Call for papers
+title: Call for Papers
 description:
 nav: true
 nav_order: 1
@@ -22,7 +22,7 @@ Submissions should take the form of a short paper of up to **4 pages**. Addition
 
 All accepted submissions will be accompanied by a poster presentation. A number of selected submissions will be invited for lightning and oral talks. 
 
-**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference (including papers accepted to NeurIPS 2024 conference), it should be reasonably extended in order to be accepted at our workshop.
+**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference (including papers accepted to NeurIPS 2024 conference), it should be reasonably extended in order to be accepted at this workshop.
 
 ## Scope and Topics
 
@@ -30,13 +30,13 @@ We invite submissions related to pretrained time series models. The key topics i
 
 - Building _foundation_ models for time series data.
 - Analyzing existing pretrained time series models (e.g., explainability and interpretability).
-- Critiques on foundational models for time series.
+- Critiques on foundation models for time series.
 - Faster and better inference schemes for autoregressive pretrained time series models.
 - Leveraging pretrained models of other modalities for time series.
 - Multimodal time series models.
 - Large scale benchmarks, datasets, synthetic data generation and data augmentation for time series.
-- Time Series Evaluation.
-- Real-world applications.
+- Evaluation of time series foundation models.
+- Real-world applications of time series foundation models.
 
 ## Contact
 
