@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: First Workshop on Time Series in the Age of Large Models at the <a href="https://neurips.cc/">Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)</a>, December 2024, Vancouver, Canada.
+subtitle: 
 
 profile:
   align: right
@@ -11,28 +11,23 @@ news: false # includes a list of news items. TODO: set to true when needed
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+In recent years the success of large language models has sparked exciting research in various domains ranging from
+audio/image
+processing over reinforcement learning to the development general-purpose virtual assistants such as
+ChatGPT.
 
+**In our first workshop at the <a href="https://neurips.cc/">38th annual
+Conference on Neural Information Processing Systems (NeurIPS)</a>** ,  we aim to better understand the impact of LLMs on
+time-series prediction and the
+challenges that come with adopting large models to this domain.
 
-This workshop focuses on the advancements and challenges in time-series prediction and analysis in the era of large
-models. It aims to address specific problems in this field, highlighting the following areas:
+Key topics include but are not limited to:
 
-1. **Foundation Models for Time Series**
-- Understanding progress and challenges in developing foundation models (FMs) for time series.
-- Exploring design choices, data diversity, as well as evaluation benchmarks.
-
-2. **Leveraging Pretrained Models of Other Modalities**
-- Using large language models (LLMs) time for series tasks.
-- Methods of adapting pretrained LLMS
-- Adapting pretrained models for other modalities (e.g., audio, video, images).
-
-3. **Multimodal Time Series Models**
-- Integrating multiple data modalities (numerical, text, images) for improved analysis and prediction.
-- Building text-conditioned forecasting models and exploring causal relationships in time series.
-
-4. **Time Series Evaluation and Real-World Applications**
-- Addressing shortcomings in current evaluation metrics.
-- Developing new metrics for evaluating (probabilistic) predictions.
-- Showcasing applications in domains like retail, transportation, finance, human mobility, climate and weather.
+- Foundation models for time-series prediction
+- Leveraging/adopting pretrained models of other modalities for more accurate prediction of longitudinal data 
+- Multimodal Time Series Models
+- Real world Applications of time-series prediction/analysis 
+- Exploring new datasets and metrics for benchmarking alternative time-series predictions
 
 ### Key Information
 
