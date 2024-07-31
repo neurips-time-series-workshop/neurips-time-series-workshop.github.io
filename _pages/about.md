@@ -32,7 +32,7 @@ As time-series models grow in capability and move toward real-world impact acros
 - Acceptance notification: Oct 14, 2024
 - Camera ready deadline: Nov 25, 2024
 
-Please see the [Call for Papers](/cfp/) for more information.
+Please see the [Call for Papers](/call-for-papers/) for more information.
 
 ### Invited Speakers
 The workshop features a diverse group of invited speakers who will deliver keynote talks and participate in a panel discussion:
