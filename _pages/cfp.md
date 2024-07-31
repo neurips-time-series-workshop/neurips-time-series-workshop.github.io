@@ -34,9 +34,9 @@ We invite submissions related to pretrained time series models. The key topics i
 - Faster and better inference schemes for autoregressive pretrained time series models.
 - Leveraging pretrained models of other modalities for time series.
 - Multimodal time series models.
-- Large scale benchmarks, datasets, synthetic data generation and data augmentation for time series.
-- Evaluation of time series foundation models.
-- Real-world applications of time series foundation models.
+- Large scale evaluation benchmarks, datasets, synthetic data generation and data augmentation for time series.
+- Time series evaluation (e.g. analysis and development of metrics for (probabilistic) forecasting, multivariate forecasting, use-case motivated metrics etc.)
+- Real-world applications of large time series models.
 
 ## Contact
 
