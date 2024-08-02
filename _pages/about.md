@@ -20,18 +20,18 @@ We look forward to welcoming you in Vancouver.
 Foundation models have significantly changed the approach to building machine learning models in areas such as natural language processing, where models are pretrained on large amounts of diverse data and then adapted for downstreams tasks, often in a _zero-shot_ fashion.
 Such pretrained models have started to gain traction in the time series community and several recent works have developed and open-sourced foundation models for time series tasks, particularly forecasting.
 These works have opened up new research directions and challenges.
-This workshop seeks to provide a forum for researchers and practitioners to understand the progress so far and push the frontier of research on pretrained time series models. 
+This workshop seeks to provide a forum for researchers and practitioners to understand the progress so far and push the frontier of research on time series foundation models (TSFMs). 
 
 The key topics of this workshop include, but are not limited to:
 - Building Foundation Models for Time Series Data
 - Analyzing Existing Pretrained Time Series Models
 - Critiques of Foundation Models for Time Series
-- Faster and Better Inference Schemes for Autoregressive FTSMs
+- Faster and Better Inference Schemes for Autoregressive TSFMs
 - Leveraging Pretrained Models of Other Modalities for Time Series
 - Multimodal Time Series Models
 - Large-Scale Time Series Datasets and Benchmarks
 - Time Series Evaluation
-- Real-World Applications of FTSMs
+- Real-World Applications of TSFMs
 
 Please see the [Call for Papers](/call-for-papers/) for details.
 
