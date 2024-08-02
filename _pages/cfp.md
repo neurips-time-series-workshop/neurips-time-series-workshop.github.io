@@ -26,17 +26,17 @@ All accepted submissions will be accompanied by a poster presentation. A number 
 
 ## Scope and Topics
 
-We invite submissions related to pretrained time series models. The key topics include (but are not limited to):
+We invite submissions related to foundation time series models (FTSMs). Key topics include, but are not limited to:
 
-- Building _foundation_ models for time series data.
-- Analyzing existing pretrained time series models (e.g., explainability and interpretability).
-- Critiques on foundation models for time series.
-- Faster and better inference schemes for autoregressive pretrained time series models.
-- Leveraging pretrained models of other modalities for time series.
-- Multimodal time series models.
-- Large scale evaluation benchmarks, live (continuously updating) datasets, synthetic data generation and data augmentation for time series.
-- Time series evaluation (e.g. analysis and development of metrics for (probabilistic) forecasting, multivariate forecasting, use-case motivated metrics etc.)
-- Real-world applications of large time series models.
+- **Building Foundation Models for Time Series Data**: The heterogeneity of time series data and tasks presents unique challenges in developing FTSMs. We welcome contributions exploring various design choices and improving our understanding of how these models scale with the amount and diversity of data.
+- **Analyzing Existing Pretrained Time Series Models**: FTSMs are often criticized for their black-box nature, especially compared to interpretable statistical models. We encourage submissions that analyze pretrained time series models to enhance our understanding of their learning processes.
+- **Critiques of Foundation Models for Time Series**: Contributions highlighting the limitations of FTSMs through theoretical analysis or systematic empirical evaluations are welcome.
+- **Faster and Better Inference Schemes for Autoregressive FTSMs**: Single-step autoregressive FTSMs are generally slower than multi-step models, such as those based on patching. We invite submissions comparing these techniques and developing methods to improve the inference speed and quality of autoregressive models.
+- **Leveraging Pretrained Models of Other Modalities for Time Series**: Recent studies show promise in adapting pretrained LLMs to specialized time series tasks. We seek to understand how design choices in leveraging these models—such as prompting techniques, adaptation methods, and fine-tuning—impact performance. We also seek to identify scenarios where these methods excel compared to training FTSMs from scratch, in terms of model capabilities, accuracy, and training and inference times.
+- **Multimodal Time Series Models**: Most time series models handle only numerical data, often providing a partial picture of the system of interest. In real-world settings, multiple modalities are available, and incorporating exogenous information, such as text, can enhance performance. We invite submissions exploring time series models that integrate information from other modalities.
+- **Large-Scale Time Series Datasets and Benchmarks**: The quality and quantity of publicly available time series data lag behind other modalities, such as text and vision. We welcome contributions of large-scale time series data and benchmarks, both general and domain-specific. We also invite methods for better synthetic time series generation and augmentation to address data challenges.
+- **Time Series Evaluation**: We seek contributions on the analysis, comparison, and development of metrics for time series tasks, including metrics for probabilistic forecasting, multivariate forecasting, and use-case motivated metrics.
+- **Real-World Applications of FTSMs**: We invite contributions showcasing the potential of FTSMs in real-world domains, such as energy, healthcare, retail, human mobility, and finance.
 
 ## Contact
 
