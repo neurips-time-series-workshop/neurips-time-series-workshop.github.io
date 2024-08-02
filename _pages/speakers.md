@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /speakers/
 title: Speakers 
-description: 
+description: The workshop features a diverse group of invited speakers who will deliver keynote talks and participate in a panel discussion.
 nav: true
 nav_order: 6
 
@@ -34,7 +34,7 @@ profiles:
     more_info: >
 
   - align: right 
-    image: speakers/qingsong.webp
+    image: speakers/qingsong.png
     content: speakers/qingsong.md 
     image_circular: false 
     more_info: >

@@ -34,16 +34,6 @@ As time-series models grow in capability and move toward real-world impact acros
 
 Please see the [Call for Papers](/call-for-papers/) for more information.
 
-### Invited Speakers
-The workshop features a diverse group of invited speakers who will deliver keynote talks and participate in a panel discussion:
-
-1. **Mihaela van der Schaar** - University of Cambridge, The Alan Turing Institute
-2. **Qingsong Wen** - Squirrel AI Learning Inc.
-3. **Valentina Zantedeschi** - ServiceNow, Laval University
-4. **Andrew Wilson** - New York University
-5. **Christoph Bergmeir** - University of Granada, Spain
-6. **Tomas Pfister** - Google Cloud
-
 ### Contact
 
 You can reach the organizers of the workshop at [neurips-time-series-workshop@googlegroups.com](mailto:neurips-time-series-workshop@googlegroups.com).
