@@ -23,9 +23,9 @@ These works have opened up new research directions and challenges.
 This workshop seeks to provide a forum for researchers and practitioners to understand the progress so far and push the frontier of research on time series foundation models (TSFMs). 
 
 The key topics of this workshop include, but are not limited to:
-- Building Foundation Models for Time Series Data
-- Analyzing Existing Pretrained Time Series Models
-- Critiques of Foundation Models for Time Series
+- Building TSFMs
+- Analyzing Existing TSFMs
+- Critiques of TSFMs
 - Faster and Better Inference Schemes for Autoregressive TSFMs
 - Leveraging Pretrained Models of Other Modalities for Time Series
 - Multimodal Time Series Models
