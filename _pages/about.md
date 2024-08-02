@@ -42,6 +42,7 @@ The workshop features a diverse group of invited speakers who will deliver keyno
 3. **Valentina Zantedeschi** - ServiceNow, Laval University
 4. **Andrew Wilson** - New York University
 5. **Christoph Bergmeir** - University of Granada, Spain
+6. **Tomas Pfister** - Google Cloud
 
 ### Contact
 
