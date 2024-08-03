@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  
+  You can reach the organizers of the workshop at <a href="mailto:neurips-time-series-workshop@googlegroups.com">neurips-time-series-workshop@googlegroups.com</a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
