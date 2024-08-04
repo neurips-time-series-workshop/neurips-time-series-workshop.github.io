@@ -50,7 +50,7 @@ profiles:
       <p><a href="mailto: mosheunger@tauex.tau.ac.il">mosheunger@tauex.tau.ac.il</a></p>
 
   - align: right 
-    image: 
+    image: organizers/kashif.png 
     content: organizers/kashif.md 
     image_circular: false # crops the image to make it circular
     more_info: >
