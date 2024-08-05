@@ -18,7 +18,7 @@ We welcome researchers working in the field of time series analysis to submit th
 
 ## Submission Instructions
 
-Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **[Open Review]()** in a single `.pdf` file using **[this LaTeX style template](../assets/latex/timeseries-workshop-latex-template.zip)**. The review process in _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be rejected without review.
+Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **[Open Review]()** in a single `.pdf` file using **[this LaTeX style template](../assets/latex/timeseries-workshop-latex-template.zip)**. The review process in _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that the decisions will be made based on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
 
 All accepted submissions will be accompanied by a poster presentation. A number of selected submissions will be invited for lightning and oral talks. 
 
@@ -37,6 +37,10 @@ We invite submissions related to the theme of time series in the age of large mo
 - **Large-Scale Time Series Datasets and Benchmarks**: The quality and quantity of publicly available time series data lag behind other modalities, such as text and vision. We welcome contributions of large-scale time series data (both general and domain-specific) and benchmarks comparing various time series foundation models. We also invite methods for better synthetic time series generation and augmentation to address data challenges.
 - **Time Series Evaluation**: We seek contributions on the analysis, comparison, and development of metrics for time series tasks, including metrics for probabilistic forecasting, multivariate forecasting, and use-case motivated metrics.
 - **Real-World Applications of Large Time Series Models**: We invite contributions showcasing the potential of large time series models in real-world domains, such as energy, healthcare, retail, human mobility, and finance.
+
+## Call for reviewers
+
+We are also looking for reviewers for the workshop. If you would like to nominate someone (or yourself), please fill this [google form](https://docs.google.com/forms/d/e/1FAIpQLSdOa2gEKTmpSvqa9tbQGEQbm7uxmGlht-04qA3u0agoWIaO5w/viewform).
 
 ## Contact
 

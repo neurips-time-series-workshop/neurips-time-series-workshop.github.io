@@ -44,4 +44,7 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 - Acceptance notification: Oct 14, 2024
 - Camera ready deadline: Nov 25, 2024
 
+## Call for reviewers
+
+We are also looking for reviewers for the workshop. If you would like to nominate someone (or yourself), please fill this [google form](https://docs.google.com/forms/d/e/1FAIpQLSdOa2gEKTmpSvqa9tbQGEQbm7uxmGlht-04qA3u0agoWIaO5w/viewform).
 
