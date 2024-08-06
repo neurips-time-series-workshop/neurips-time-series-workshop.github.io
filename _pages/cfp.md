@@ -12,8 +12,8 @@ We welcome researchers working in the field of time series analysis to submit th
 ## Key Information
 
 - Submission link: [TBD](https://openreview.net)
-- Submission deadline: Sep 15, 2024 (11:59 pm AoE)
-- Acceptance notification: Oct 14, 2024
+- Submission deadline: Sep 15, 2024 (11:59 PM AoE)
+- Accept/Reject notification: ~~Oct 14, 2024~~ Oct 9, 2024
 - Camera ready deadline: Nov 25, 2024
 
 ## Submission Instructions
@@ -40,7 +40,11 @@ We invite submissions related to the theme of time series in the age of large mo
 
 ## Call for reviewers
 
-We are also looking for reviewers for the workshop. If you would like to nominate someone (or yourself), please fill this [google form](https://docs.google.com/forms/d/e/1FAIpQLSdOa2gEKTmpSvqa9tbQGEQbm7uxmGlht-04qA3u0agoWIaO5w/viewform).
+We are looking for reviewers for the workshop. If you would like to nominate someone (or yourself), please fill this [google form](https://docs.google.com/forms/d/e/1FAIpQLSdOa2gEKTmpSvqa9tbQGEQbm7uxmGlht-04qA3u0agoWIaO5w/viewform).
+
+## Call for sponsors
+
+We are looking for sponsors for the workshop. If you would like to learn about sponsorship opportunities at the workshop, please contact the organizers.
 
 ## Contact
 
