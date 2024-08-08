@@ -39,9 +39,9 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 
 ### Key Information
 
-- Submission link: TBD
+- Submission link: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM)**
 - Submission deadline: Sep 15, 2024 (11:59 PM AoE)
-- Acceptance notification: Oct 14, 2024
+- Acceptance notification: Oct 09, 2024
 - Camera ready deadline: Nov 25, 2024
 
 ### Call for reviewers

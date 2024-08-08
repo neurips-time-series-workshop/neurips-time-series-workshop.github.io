@@ -11,14 +11,14 @@ We welcome researchers working in the field of time series analysis to submit th
 
 ## Key Information
 
-- Submission link: [TBD](https://openreview.net)
+- Submission link: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM)**
 - Submission deadline: Sep 15, 2024 (11:59 pm AoE)
-- Acceptance notification: Oct 14, 2024
+- Acceptance notification: Oct 09, 2024
 - Camera ready deadline: Nov 25, 2024
 
 ## Submission Instructions
 
-Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **[Open Review]()** in a single `.pdf` file using **[this LaTeX style template](../assets/latex/timeseries-workshop-latex-template.zip)**. The review process in _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that there is no rebuttal phase and the final decisions will be made based solely on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
+Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM)** in a single `.pdf` file using **[this LaTeX style template](../assets/latex/timeseries-workshop-latex-template.zip)**. The review process in _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that there is no rebuttal phase and the final decisions will be made based solely on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
 
 All accepted submissions will be accompanied by a poster presentation. A number of selected submissions will be invited for lightning and oral talks. 
 
