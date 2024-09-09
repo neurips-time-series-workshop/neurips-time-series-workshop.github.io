@@ -22,7 +22,7 @@ Submissions should take the form of a short paper of up to **4 pages**. Addition
 
 All accepted submissions will be accompanied by a poster presentation. A number of selected submissions will be invited for lightning and oral talks. 
 
-**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference (including papers accepted to NeurIPS 2024 conference), it should be reasonably extended in order to be accepted at this workshop.
+**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference, it should be reasonably extended in order to be accepted at this workshop. Parallel submission of papers under review at NeurIPS 2024 is allowed.
 
 ## Scope and Topics
 
