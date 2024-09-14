@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-The first NeurIPS workshop on **Time Series in the Age of Large Models** will be held at the Vancouver Convention Center on **December 14/15, 2024**.
+The first NeurIPS workshop on **Time Series in the Age of Large Models** will be held at the Vancouver Convention Center on **December 15, 2024**.
 We look forward to welcoming you in Vancouver. 
 
 ### Introduction
