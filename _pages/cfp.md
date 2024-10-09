@@ -11,9 +11,11 @@ We welcome researchers working in the field of time series analysis to submit th
 
 ## Key Information
 
+**Update Oct 9:** Due to a large number of submissions, we will announce the decisions on Oct 10 instead of on Oct 9. 
+
 - Submission link: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM)**
 - Submission deadline: Sep 15, 2024 (11:59 pm AoE)
-- Acceptance notification: Oct 09, 2024
+- Acceptance notification: <del>Oct 09, 2024</del> Oct 10, 2024 (anytime before 11:59 AoE)
 - Camera ready deadline: Nov 25, 2024
 
 ## Submission Instructions
