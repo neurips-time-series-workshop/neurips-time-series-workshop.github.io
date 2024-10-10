@@ -15,6 +15,8 @@ social: true # includes social icons at the bottom of the page
 The first NeurIPS workshop on **Time Series in the Age of Large Models** will be held at the Vancouver Convention Center on **December 15, 2024**.
 We look forward to welcoming you in Vancouver. 
 
+All accepted papers are available [here](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM#tab-accept). 
+
 ### Introduction
 
 Foundation models have revolutionized the approach to building machine learning models in areas like natural language processing, where models are pretrained on large amounts of diverse data and then adapted for downstreams tasks, often in a _zero-shot_ fashion.
@@ -39,7 +41,9 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 
 ### Key Information
 
-**Update Oct 9:** Due to a large number of submissions, we will announce the decisions on Oct 10 instead of on Oct 9. 
+**Update Oct 10**: Decisions have been released. **Please see all accepted papers [here](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM#tab-accept)**.
+
+<del>**Update Oct 9:** Due to a large number of submissions, we will announce the decisions on Oct 10 instead of on Oct 9.</del> 
 
 - Submission link: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM)**
 - Submission deadline: Sep 15, 2024 (11:59 PM AoE)
