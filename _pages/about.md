@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 The first NeurIPS workshop on **Time Series in the Age of Large Models** will be held at the Vancouver Convention Center on **December 15, 2024**.
 We look forward to welcoming you in Vancouver. 
 
-Titles and abstracts of all accepted papers are available [here](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM#tab-accept). PDFs will be made public at the camera-ready stage. 
+Titles and abstracts of all accepted papers are available [here](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM#tab-accept). PDFs will be made public after the camera-ready deadline. 
 
 ### Introduction
 
@@ -49,7 +49,7 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 - Submission link: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM)**
 - Submission deadline: Sep 15, 2024 (11:59 PM AoE)
 - Acceptance notification: <del>Oct 09, 2024</del> Oct 10, 2024 (anytime before 11:59 AoE)
-- Camera ready deadline: Nov 25, 2024
+- Camera ready deadline: Nov 15, 2024
 
 
 ### <del>Call for reviewers</del>
