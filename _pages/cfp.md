@@ -20,7 +20,7 @@ Titles and abstracts of all accepted papers are available [here](https://openrev
 - Submission link: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM)**
 - Submission deadline: Sep 15, 2024 (11:59 pm AoE)
 - Acceptance notification: <del>Oct 09, 2024</del> Oct 10, 2024 (anytime before 11:59 AoE)
-- Camera ready deadline: <del>Nov 15, 2024</del> Nov 25, 2024 (7 PM EST)
+- Camera ready deadline: <del>Nov 15, 2024</del> Nov 25, 2024 (7 PM EST) 
 
 ## Submission Instructions
 
