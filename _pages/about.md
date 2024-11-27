@@ -38,3 +38,37 @@ The key topics of this workshop include, but are not limited to:
 - Real-World Applications of Large Time Series Models
 
 Please see the [Call for Papers](/call-for-papers/) for details.
+
+### Schedule
+
+**Sunday 15th December 2024, West Meeting Room 220-222, Vancouver Convention Center**
+
+Refer to the [NeurIPS website](https://neurips.cc/virtual/2024/workshop/84712) for the detailed schedule.
+
+| **Time (PST)**                                | **Event**                                                                                                                                                                   |
+|:------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 08:15 - 08:25                 | 🎤 **Opening Remarks**                                                                                                                                              |
+| 08:25 - 09:00                 | 🎓 **Invited Talk by Tomas Pfister** <br /> <small>Multimodal Time Series Modeling<small/>                                                                                       |
+| 09:00 - 09:12                 | 📢 **Contributed Oral Talk** <br /> <small>Partial Channel Dependence with Channel Masks for Time Series Foundation Model<small/>                                                                              |
+| 09:12 - 09:17                 | 💡 **Contributed Spotlight Talk** <br /> <small>Time Series under Temporal Label Noise<small/>                                                                                                                 |
+| 09:17 - 09:29                 | 📢 **Contributed Oral Talk** <br /> <small>PaPaGei: Open Foundation Models for Optical Physiological Signals<small/>                                                                                           |
+| 09:29 - 09:34                 | 💡 **Contributed Spotlight Talk** <br /> <small>TimeSeriesExam: A Time Series Understanding Exam<small/>                                                                                                       |
+| 09:34 - 10:35                 | 🖼️ **Poster Session 1**                                                                                                                                   |
+| 10:35 - 11:10                 | 🎓 **Invited Talk by Christoph Bergmeir** <br /> <small>Fundamental limitations of foundational forecasting models: The need for multimodality and rigorous evaluation<small/>   |
+| 11:10 - 11:15                 | 💡 **Contributed Spotlight Talk** <br /> <small>TimePFN: Effective Multivariate Time Series Forecasting with Synthetic Data<small/>                                                                            |
+| 11:15 - 11:50                 | 🎓 **Invited Talk by Valentina Zantedeschi** <br /> <small>Beyond Forecasting: Intelligent Decision Support for Complex Systems<small/>                                          |
+| 12:00 - 13:00                 | 🥗 **Lunch Break**                                                                                                                                                             |
+| 13:00 - 14:00                 | 🖼️ **Poster Session 2**                                                                                                                                 |
+| 14:00 - 14:35                 | 🎓 **Invited Talk by Qingsong Wen** <br /> <small>LLM and Foundation Models for Time Series Analysis<small/>                                                                     |
+| 14:35 - 14:47                 | 📢 **Contributed Oral Talk** <br /> <small>Towards Time-Series Reasoning with LLMs<small/>                                                                                                                     |
+| 14:47 - 14:53                 | 💡 **Contributed Spotlight Talk** <br /> <small>Benchmarking out-of-the-box forecasters of varying scales in biology<small/>                                                                                   |
+| 14:53 - 15:05                 | 📢 **Contributed Oral Talk** <br /> <small>Scaling-laws for Large Time-series Models<small/>                                                                                                                   |
+| 15:05 - 15:10                 | 💡 **Contributed Spotlight Talk** <br /> <small>Towards Resolution-Aware Retrieval Augmented Zero-Shot Forecasting<small/>                                                                                     |
+| 15:10 - 15:45                 | 🎓 **Invited Talk by Mihaela van der Schaar** <br /> <small>From Data to Discovery: LLM's Role in Advancing Science<small/>                                              |                                                                                                                           |             |
+| 15:45 - 16:15                 | ☕ **Coffee Break and Networking Session**                                                                                                                                     |
+| 16:15 - 16:27                 | 📢 **Contributed Oral Talk** <br /> <small>Maven: A Multimodal Foundation Model for Supernova Science<small/>                                                                                                  |
+| 16:27 - 16:32                 | 💡 **Contributed Spotlight Talk** <br /> <small>Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models<small/>                                                                        |
+| 16:32 - 17:08                 | 🎓 **Invited Talk by Andrew Gordon Wilson** <br /> <small>Why Should We Develop Language Models for Time Series Forecasting?<small/>                                          |
+| 17:08 - 17:13                 | 🎬 **Closing Remarks**                                          |
+{: .table}
+{: .table-striped}
