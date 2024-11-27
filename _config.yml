@@ -241,9 +241,6 @@ exclude:
   - vendor
   - _pages/blog.md
   - _pages/news.md
-  - _pages/projects.md
-  - _pages/publications.md
-  - _pages/teaching.md
   - _posts
   - _news
   - _projects
