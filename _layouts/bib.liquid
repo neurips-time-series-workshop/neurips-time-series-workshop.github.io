@@ -47,7 +47,11 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    {% if entry.url %}
+      <div class="title"><a href="{{ entry.url }}">{{ entry.title }}</a></div>
+    {% else %}
+      <div class="title">{{ entry.title }}</div>
+    {% endif %}
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -145,7 +149,7 @@
       {% endif %}
     </div>
 
-    <!-- Journal/Book title and date -->
+    <!-- Journal/Book title and date 
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
@@ -181,6 +185,7 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    -->
 
     <!-- Links/Buttons -->
     <div class="links">

@@ -13,7 +13,9 @@ Titles and abstracts of all accepted papers are available [here](https://openrev
 
 ## Key Information
 
-**Update Oct 10**: Decisions have been released. **Titles and abstracts of all accepted papers are available [here](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM#tab-accept).** PDFs will be made public at the camera-ready stage. 
+**Update Nov 26**: The list of accepted papers is available [here](/accepted-papers/) and the PDFs are available at the linked OpenReview pages.
+
+<del>**Update Oct 10**: Decisions have been released. **Titles and abstracts of all accepted papers are available [here](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM#tab-accept).** PDFs will be made public at the camera-ready stage.</del>
 
 <del>**Update Oct 9:** Due to a large number of submissions, we will announce the decisions on Oct 10 instead of on Oct 9.</del>  
 
