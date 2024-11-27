@@ -9,8 +9,6 @@ nav_order: 1
 
 We welcome researchers working in the field of time series analysis to submit their latest original research work to the NeurIPS 2024 workshop on **Time Series in the Age of Large Models**.
 
-Titles and abstracts of all accepted papers are available [here](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM#tab-accept). PDFs will be made public after the camera-ready deadline. 
-
 ## Key Information
 
 **Update Nov 26**: The list of accepted papers is available [here](/accepted-papers/) and the PDFs are available at the linked OpenReview pages.
