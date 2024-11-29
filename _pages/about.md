@@ -62,13 +62,14 @@ Refer to the [NeurIPS website](https://neurips.cc/virtual/2024/workshop/84712) f
 | 14:00 - 14:35                 | 🎓 **Invited Talk by Qingsong Wen** <br /> <small>LLM and Foundation Models for Time Series Analysis<small/>                                                                     |
 | 14:35 - 14:47                 | 📢 **Contributed Oral Talk** <br /> <small>Towards Time-Series Reasoning with LLMs<small/>                                                                                                                     |
 | 14:47 - 14:53                 | 💡 **Contributed Spotlight Talk** <br /> <small>Benchmarking out-of-the-box forecasters of varying scales in biology<small/>                                                                                   |
-| 14:53 - 15:05                 | 📢 **Contributed Oral Talk** <br /> <small>Scaling-laws for Large Time-series Models<small/>                                                                                                                   |
-| 15:05 - 15:10                 | 💡 **Contributed Spotlight Talk** <br /> <small>Towards Resolution-Aware Retrieval Augmented Zero-Shot Forecasting<small/>                                                                                     |
-| 15:10 - 15:45                 | 🎓 **Invited Talk by Mihaela van der Schaar** <br /> <small>From Data to Discovery: LLM's Role in Advancing Science<small/>                                              |                                                                                                                           |             |
-| 15:45 - 16:15                 | ☕ **Coffee Break and Networking Session**                                                                                                                                     |
-| 16:15 - 16:27                 | 📢 **Contributed Oral Talk** <br /> <small>Maven: A Multimodal Foundation Model for Supernova Science<small/>                                                                                                  |
-| 16:27 - 16:32                 | 💡 **Contributed Spotlight Talk** <br /> <small>Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models<small/>                                                                        |
-| 16:32 - 17:08                 | 🎓 **Invited Talk by Andrew Gordon Wilson** <br /> <small>Why Should We Develop Language Models for Time Series Forecasting?<small/>                                          |
-| 17:08 - 17:13                 | 🎬 **Closing Remarks**                                          |
+| 14:53 - 15:30                 | ☕ **Coffee Break**                                                                                                                                     |
+| 15:30 - 15:42                 | 📢 **Contributed Oral Talk** <br /> <small>Scaling-laws for Large Time-series Models<small/>                                                                                                                   |
+| 15:42 - 15:47                 | 💡 **Contributed Spotlight Talk** <br /> <small>Towards Resolution-Aware Retrieval Augmented Zero-Shot Forecasting<small/>                                                                                     |
+| 15:47 - 16:22                 | 🎓 **Invited Talk by Mihaela van der Schaar** <br /> <small>From Data to Discovery: LLM's Role in Advancing Science<small/>                                              |                                                                                                                           |             |
+
+| 16:22 - 16:34                 | 📢 **Contributed Oral Talk** <br /> <small>Maven: A Multimodal Foundation Model for Supernova Science<small/>                                                                                                  |
+| 16:34 - 16:39                 | 💡 **Contributed Spotlight Talk** <br /> <small>Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models<small/>                                                                        |
+| 16:39 - 17:14                 | 🎓 **Invited Talk by Andrew Gordon Wilson** <br /> <small>Why Should We Develop Language Models for Time Series Forecasting?<small/>                                          |
+| 17:14 - 17:19                 | 🎬 **Closing Remarks**                                          |
 {: .table}
 {: .table-striped}
