@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /speakers/
 title: Speakers 
-description: The workshop features a diverse group of invited speakers who will deliver keynote talks and participate in a panel discussion.
+description: The workshop features a diverse group of invited speakers who will deliver keynote talks.
 nav: true
 nav_order: 6
 
@@ -40,7 +40,7 @@ profiles:
     more_info: >
       
   - align: left 
-    image: speakers/valentina.avif
+    image: speakers/Valentina.png
     content: speakers/valentina.md 
     image_circular: false 
     more_info: >
