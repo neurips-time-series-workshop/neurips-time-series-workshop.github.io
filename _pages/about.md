@@ -15,7 +15,9 @@ social: true # includes social icons at the bottom of the page
 The first NeurIPS workshop on **Time Series in the Age of Large Models** will be held at the Vancouver Convention Center on **December 15, 2024**.
 We look forward to welcoming you in Vancouver. 
 
-The list of accepted papers is available [here](/accepted-papers/) and the PDFs are available at the linked OpenReview pages.
+The list of accepted papers is available [here](/accepted-papers/) and the PDFs are available at the linked OpenReview pages. 
+
+Post workshop, we created a Slack workspace to bring time series researchers together. If you would like to join the workspace, please email the organizers and request an invite link.
 
 ### Introduction
 
