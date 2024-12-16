@@ -14,8 +14,6 @@ nav_order: 2
 🎖️ **Best Paper Honorable Mention**: Sathya Kamesh Bhethanabhotla, Omar Swelam, Julien Siems, David Salinas, Frank Hutter, _Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models_    
 🎖️ **Best Paper Honorable Mention**: Yifu Cai, Arjun Choudhry, Mononito Goswami, Artur Dubrawski, _TimeSeriesExam: A Time Series Understanding Exam_    
 
-{% include bib_search.liquid %}
-
 <div class="publications">
 
 {% bibliography %}
